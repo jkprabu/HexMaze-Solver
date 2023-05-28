@@ -12,5 +12,7 @@ This project implements a hexagonal maze solver using C++ and Dijkstra's algorit
 - Run the program using `./maze` command on the terminal. 
 - Test the program using `./testMaze` command on the terminal. 
 
+Collaborated with Linus.C
+
 
 
