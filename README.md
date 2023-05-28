@@ -9,8 +9,8 @@ This project implements a hexagonal maze solver using C++ and Dijkstra's algorit
 ## Usage
 - Clone the repository to your local machine.
 - Using GCC compiler, make the file using the `make` command on the terminal.
-- Run the program using `./run` command on the terminal. 
-- Test the program using `./test` command on the terminal. 
+- Run the program using `./maze` command on the terminal. 
+- Test the program using `./testMaze` command on the terminal. 
 
 
 
